@@ -1,0 +1,11 @@
+Dart Run
+
+Student name: Piollo
+Is the customer a student? true
+Quantity purchased: 3
+Price per item: PHP 45.5
+Total price: PHP 136.5
+Can the student get a discount? true
+Items remaining: 7
+Groups of two: 1
+Extra item: 1
